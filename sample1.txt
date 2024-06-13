@@ -1,1 +1,3 @@
-hello welcome to devopse
+hello welcome to devopse.
+
+AWS,SNS,CLOUDWATCH,RDS,EC2,ASG,EBS,VPC
